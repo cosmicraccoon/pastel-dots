@@ -5,7 +5,7 @@ You surely will need to change some configs to fit your files and stuff and mayb
 
 Most of the other things should be self explanatory. Screenshot may have slightly other colors than the screenshot ^^
 
-![](https://raw.githubusercontent.com/cosmicraccoon/pastel-dots/main/screen.png)
+![](https://raw.githubusercontent.com/cosmicraccoon/pastel-dots/main/screen-1.png)
 ## Dependencies
 
 ### Fonts
